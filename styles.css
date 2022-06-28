@@ -1,3 +1,11 @@
 h2 {
     color: blue;
- }
+}
+
+.flex {
+    display: flex;
+}
+
+.ml2 {
+    margin-left: 20px;
+}
